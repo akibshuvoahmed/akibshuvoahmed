@@ -10,11 +10,13 @@
 
 <p align="left">
     <sub>
-        🗺️ **GIS & Remote Sensing:** ArcGIS Pro, QGIS, Google Earth Engine<br>
-        💻 **3D Geological Modeling:** Leapfrog Geo, Gempy<br>
-        🐍 **GIS Programming libraries:** GeoAi, Rasterio, Xarray, Rioxarray, Leafmap, Whitebox, MapLibre, Geemap, SAMGeo, HyperCoast, DuckDB<br>
-        🌐 **Web & Databases:** Leaflet, PostgreSQL, PostGIS, PHP, AJAX, JavaScript, jQuery, Bootstrap, CSS, HTML, Cloud Databases, SQL<br>
-        🔬 **Specialized Tools:** PV mass Spec, RS2, LaTeX
+        🌱 <b>Research Interests:</b> Natural Hydrogen (H₂), Remote Sensing & AI<br>
+        🔬 <b>Current Position:</b> PhD Researcher at CNRS – LPG, Le Mans Université, France under the CNRS–Imperial College London Joint PhD Programme.<br>
+        🌍 <b>PhD Programme:</b> CNRS–Imperial College London Joint PhD Programme<br>
+        🛰️ <b>Research Focus:</b>Sub-Circular Depressions (SCDs), Deep Learning & Geophysical Surveys<br>
+        🎓 <b>Education:</b> M.Sc. in Engineering Geohazards, RWTH Aachen University, Germany<br>
+        💻 <b>Currently Learning:</b> Machine Learning, Deep Learning, Computer Vision & Geological Modelling<br>
+        🏢 <b>Previous Experience:</b> Fraunhofer IEG, Forschungszentrum Jülich & Geoservice Soltenborn
     </sub>
 </p>
 
