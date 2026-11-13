@@ -7,7 +7,6 @@
     <sub>
         🌱 <b>Research Interests:</b> Natural Hydrogen (H₂), Remote Sensing & AI<br>
         🔬 <b>Current Position:</b> PhD Researcher at CNRS – LPG, Le Mans Université, France under the CNRS–Imperial College London Joint PhD Programme.<br>
-        🌍 <b>PhD Programme:</b> CNRS–Imperial College London Joint PhD Programme<br>
         🛰️ <b>Research Focus:</b>Sub-Circular Depressions (SCDs), Deep Learning & Geophysical Surveys<br>
         🎓 <b>Education:</b> M.Sc. in Engineering Geohazards, RWTH Aachen University, Germany<br>
         💻 <b>Currently Learning:</b> Machine Learning, Deep Learning, Computer Vision & Geological Modelling<br>
